@@ -1,0 +1,101 @@
+.body-index {
+    background-image: url('https://wallpapercave.com/wp/wp7126937.jpg');
+    background-repeat : no-repeat;
+    background-size : cover;
+}
+
+.body-background-box{
+    background-color : #C6FFFF;
+    width : auto;
+    margin : 20px;
+    height : contain;
+    border-radius : 10px;
+    padding : 10px;
+}
+
+.navigation-bar {
+    width : fill;
+    height : contain;
+    padding : 10px;
+    border : 2px solid #06FFFF;
+    border-radius : 10px;
+
+}
+
+.list {
+    list-style-type : none;
+    text-align : center;
+    padding : 0px;
+}
+
+.list-item {
+    display : inline-block;
+}
+
+.navigation-button {
+    text-decoration : none;
+    background-color : #06ffff;
+    margin : 50px;
+    padding : 5%;
+    border : 2px solid #06FFFF;
+    border-radius : 10px;
+}
+
+.navigation-button:hover {
+    background-color : #06DDDD;
+}
+
+.text-box-container {
+    width : fill;
+    height : 200px;
+    /*border : 2px solid black;*/
+    padding : 10px;
+}
+
+.text-box {
+    width:50%;
+    height : 100%;
+    float : left;
+    /*border : 5px solid black;*/
+    padding : 5px;
+
+}
+
+.color-box {
+    width : 100%;
+    height : 100%;
+    border-radius : 10px;
+    padding : 5px;
+
+}
+
+.color-box-rps {
+    width : 100%;
+    height : 100%;
+    border-radius : 10px;
+    padding : 1px;
+    background-color : green;
+    border : none;
+    color : lightgreen;
+    border : 2px solid green;
+
+}
+
+.color-box-rps:hover {
+    background-color: #023020;
+    color : white;
+}
+
+.rps-title {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align : center;
+    text-decoration : underline;
+    color : #023020;
+}
+
+.image {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    padding : 2px;
+}
